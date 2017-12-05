@@ -1,5 +1,7 @@
 # uplift
-This repo will be working/complete when we can use it to build, launch and use a Locational application
+This repo will be working/complete when we can use it to build, launch and use a Locational application.
+
+This repo might eventually be known as the 'core' of Locational, but easier to build there and confirm (and rename repo), than expect we'll get there.
 
 Will include:
 
